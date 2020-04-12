@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <time.h>
 
-//#include "list.h"
 
 using namespace std;
 namespace fs = filesystem;
